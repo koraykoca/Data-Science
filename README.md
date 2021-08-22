@@ -1,5 +1,5 @@
 # Data Loading, Slicing, Filtering, Cleaning and Visualization
 
-Data Loading, Slicing, Filtering, Cleaning and Visualization using Python, Pandas, NumPy and Matplotlib in Jupyter Notebook 
+Data Loading, Slicing, Filtering, Cleaning, Visualization and Machine Learning using Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-Learn in Jupyter Notebook. 
 
 _**Reference:**_ [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization)
